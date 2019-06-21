@@ -6,10 +6,6 @@ This project was inspired from [app-ideas](https://github.com/florinpop17/app-id
 
 ![](src/hello-app.gif)
 
-## Link to the app
-
-[Hello App](https://wizardly-euler-f49371.netlify.com) : Deployed with [netlify](https://www.netlify.com/)
-
 ## Resources used to create this project
 
 1. [complete-intro-to-react-v4](https://btholt.github.io/complete-intro-to-react-v4/ "Complete Intro to React") : Some great React content by [Brian Holt](https://github.com/btholt "Brian Holt")
