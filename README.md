@@ -42,4 +42,4 @@ This project was inspired from [app-ideas](https://github.com/florinpop17/app-id
 
 ## Disclaimers
 
-There may still be bugs in the app.
+This app is not production-ready.
