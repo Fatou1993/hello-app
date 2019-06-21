@@ -54,8 +54,6 @@ class App extends React.Component {
   componentDidMount() {
     getUserLocation().then(userLocation => {
       const { countryCode } = userLocation;
-      console.log("this is the user location", userLocation);
-      console.log("this is the lang", countryCode.toLowerCase());
       this.setState({
         lang: countryCode.toLowerCase(),
         userInfos: userLocation
